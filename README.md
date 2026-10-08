@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>👋 Hi, I'm Amarnath Kore<br><br>🎓 AI & ML Engineering Graduate<br><br>💼 Fresher | Open to Software, AI/ML & Data Engineering Roles<br><br>💻 Python • SQL • HTML • CSS • JavaScript<br><br>🛠️ FastAPI • MySQL • Git • GitHub • Tableau • Power BI<br><br>📖 Learning DSA, Machine Learning & Generative AI<br><br>🚀 Passionate about building AI-powered and data-driven applications
 
 
